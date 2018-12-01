@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# vim:set fenc=utf-8:
+
 import tkinter as tk
 
 import subprocess
